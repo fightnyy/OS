@@ -20,4 +20,4 @@ Let's build a simple shell program by leveraging the system calls.
 
 ### Goal
 
-Implement a mini virtual memory system simulato
+Implement a mini virtual memory system simulator
